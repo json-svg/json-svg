@@ -1,16 +1,22 @@
-## Hi there 👋
+# Atharva Yeole
 
-<!--
-**json-svg/json-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product designer building working interfaces with React, TypeScript, and AI coding tools.
 
-Here are some ideas to get you started:
+I work at Unimad, where I contribute to product features, fix UI issues, and work with Git branches and pull requests. Independently, I build interactive browser experiments and product prototypes that make design decisions tangible.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+
+- [The Inserter](https://atharvayeole.com/work/the-inserter)  
+  An interactive exploration of ways to add content in an editor.
+
+- [Receipt → Expense](https://atharvayeole.com/work/receipt-to-expense)  
+  A product concept for turning receipt capture into an expense workflow.
+
+- [Portfolio](https://atharvayeole.com)  
+  Case studies and interactive browser experiments.
+
+## Working with
+
+React, TypeScript, UI implementation, interaction design, Git, pull requests, and AI coding tools.
+
+[View my portfolio](https://atharvayeole.com)
